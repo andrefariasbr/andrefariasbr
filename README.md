@@ -14,37 +14,43 @@ Competências técnicas
 - Ferramentas: Git, Docker (em estudo), pytest (básico)
 - Boas práticas: testes automatizados, documentação e controle de versão
 
-## Estatísticas
+## 📊 Stats
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+<div align="center">
+	<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefariasbr&layout=compact&langs_count=8&theme=cobalt" style="max-width:640px; width:100%; margin-bottom: 1rem;" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrefariasbr&show_icons=true&theme=cobalt&include_all_commits=true" style="width: 45rem; max-width: 100%; height: auto;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefariasbr&layout=compact&langs_count=8&theme=cobalt" style="width: 45rem; max-width: 100%; height: auto;" />
-
+	<img alt="Commits and activity" src="https://github-readme-stats.vercel.app/api?username=andrefariasbr&show_icons=true&theme=cobalt&include_all_commits=true" style="max-width:640px; width:100%;" />
 </div>
 
-## Conhecimentos
+---
 
-<br>
-<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-<img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+## 🧩 Atualmente estudando
 
+<p align="center">
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+	<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-## Contato
+---
 
-[andre.farias.luc@gmail.com](mailto:andre.farias.luc@gmail.com)
+## 📫 Contatos
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 1rem;">
+<p align="center">
+	<a href="https://instagram.com/andrefariasbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:andre.farias.luc@gmail.com"><img src="https://img.shields.io/badge/-Email-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<div align="center" style="margin-top: 1rem;">
 	<img src="https://raw.githubusercontent.com/andrefariasbr/output/snake.svg" alt="Animação cobrinha" />
 </div>
 
-*(Adicione os links reais dos repositórios acima; fixe os que desejar no seu perfil.)*
+*(Links e badges profissionais — sem linguagem informal.)*
 
 ## Em estudo
 
