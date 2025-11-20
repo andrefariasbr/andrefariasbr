@@ -42,7 +42,7 @@ Competências técnicas
 
 <p align="center">
     <a href="https://instagram.com/_andreferreiraf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="mailto:andre.farias.luc@gmail.com"><img src="https://img.shields.io/badge/-Email-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andre.farias.luc@gmail.com&su=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center" style="margin-top:0.5rem; font-size:0.95rem;">
