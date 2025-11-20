@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#21d4fd"/>
+      <stop offset="100%" stop-color="#b721ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="120" fill="#0b1221" rx="6"/>
+  <g fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round">
+    <path id="snake" d="M-40 60 Q -20 40 0 60 T 40 60 T 80 60 T 120 60 T 160 60 T 200 60 T 240 60 T 280 60 T 320 60 T 360 60 T 400 60 T 440 60 T 480 60 T 520 60 T 560 60"/>
+    <use href="#snake" stroke-opacity="0.5"/>
+  </g>
+  <circle r="6" fill="#fff">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#snake" />
+    </animateMotion>
+  </circle>
+</svg>

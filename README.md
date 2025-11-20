@@ -1,28 +1,40 @@
-﻿# André Ferreira Farias
+﻿# Hello, all right? I'm André 
 
-Técnico em Informática (IFRN)  Desenvolvedor Python  Aplicações Web (Django) e automação.
+-  Im currently working on fullstack
+-  Im currently learning Docker and CI/CD
+-  Pronouns: He/Him
 
-Email: [andre.farias.luc@gmail.com](mailto:andre.farias.luc@gmail.com)  Lucrécia, RN  Brasil
+## Stats
 
----
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
-## Sobre
-Sou técnico em Informática formado pelo IFRN. Trabalho com desenvolvimento de aplicações web em Python/Django, criação de automações que trazem ganho de produtividade e soluções orientadas a entrega. Priorizo código limpo, documentação útil e resultados mensuráveis.
+<img src="https://github-readme-stats.vercel.app/api?username=andrefariasbr&show_icons=true&theme=cobalt&include_all_commits=true" style="width: 45rem; max-width: 100%; height: auto;" />
 
-## Principais tecnologias
-Python  Django  HTML  CSS  JavaScript básico  Git  PostgreSQL  Docker (em estudo)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefariasbr&layout=compact&langs_count=8&theme=cobalt" style="width: 45rem; max-width: 100%; height: auto;" />
 
-## Projetos em destaque
-- **projeto_hospital**  Sistema de gestão hospitalar (Python/Django): cadastro de pacientes, agendamento e relatórios.  
-- **todo-django**  Aplicação ToDo com autenticação e CRUD por projetos.  
-- **projeto_views**  Exemplos e estudos sobre views e templates em Django.
+</div>
 
-(Adicione os links reais dos repositórios acima; depois fixe estes repositórios no seu perfil.)
+## Knowledge
 
-## Em desenvolvimento
-- Docker para empacotamento e implantação (deploy)
-- Testes automatizados em Python
-- Conceitos de CI/CD
+<br>
+<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+<img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 
-## Contato
-- Email: andre.farias.luc@gmail.com
+## Languages
+
+Português - Native/Perfect  
+English - High/Advanced
+
+## Social
+
+<a href="mailto:andre.farias.luc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+<img src="output/snake.svg" alt="Snake animation" />
+</div>
+
