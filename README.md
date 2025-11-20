@@ -1,10 +1,10 @@
-﻿# Hello, all right? I'm André 
+﻿# Olá — sou o André 👋
 
--  Im currently working on fullstack
--  Im currently learning Docker and CI/CD
--  Pronouns: He/Him
+- 🔭 Atualmente trabalho com desenvolvimento full-stack
+- 🌱 Estudando Docker, CI/CD e boas práticas de deploy
+- 😄 Pronome: he/him
 
-## Stats
+## Estatísticas
 
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## Knowledge
+## Conhecimentos
 
 <br>
 <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,16 +25,34 @@
 <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 
-## Languages
+## Idiomas
 
-Português - Native/Perfect  
-English - High/Advanced
+🌐 Português — Nativo  
+🌐 Inglês — Avançado
 
-## Social
+## Contato
 
-<a href="mailto:andre.farias.luc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[andre.farias.luc@gmail.com](mailto:andre.farias.luc@gmail.com)
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-<img src="output/snake.svg" alt="Snake animation" />
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 1rem;">
+	<img src="https://raw.githubusercontent.com/andrefariasbr/output/snake.svg" alt="Animação cobrinha" />
 </div>
+
+## Projetos em destaque
+
+- **projeto_hospital** — Sistema de gestão hospitalar (Python/Django): cadastro de pacientes, agendamento e relatórios.
+- **todo-django** — Aplicação To‑Do com autenticação e CRUD por projetos.
+- **projeto_views** — Estudos e exemplos sobre views e templates em Django.
+
+*(Adicione os links reais dos repositórios acima; fixe os que desejar no seu perfil.)*
+
+## Em estudo
+
+- Docker e deployment
+- Testes automatizados em Python
+- Conceitos de CI/CD
+
+---
+
+Feito com foco em profissionalismo — qualquer ajuste eu atualizo.
 
