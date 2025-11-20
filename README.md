@@ -1,17 +1,17 @@
-
-Técnico em Informática (IFRN) — Desenvolvedor Python e Django
+ï»¿
+TÃ©cnico em InformÃ¡tica (IFRN) â€” Desenvolvedor Python e Django
 
 Resumo profissional
 ---------------
-Profissional com formação técnica em Informática (IFRN), com atuação no desenvolvimento de aplicações web utilizando Python e Django. Experiência em concepção, implementação e manutenção de sistemas, com foco em automação de processos, qualidade de código e entrega de soluções práticas.
+Profissional com formaÃ§Ã£o tÃ©cnica em InformÃ¡tica (IFRN), com atuaÃ§Ã£o no desenvolvimento de aplicaÃ§Ãµes web utilizando Python e Django. ExperiÃªncia em concepÃ§Ã£o, implementaÃ§Ã£o e manutenÃ§Ã£o de sistemas, com foco em automaÃ§Ã£o de processos, qualidade de cÃ³digo e entrega de soluÃ§Ãµes prÃ¡ticas.
 
-Competências técnicas
+CompetÃªncias tÃ©cnicas
 ---------------
-- Linguagens: Python, HTML, CSS, JavaScript (básico)
+- Linguagens: Python, HTML, CSS, JavaScript (bÃ¡sico)
 - Frameworks: Django
 - Banco de dados: PostgreSQL, SQLite
-- Ferramentas: Git, Docker (em estudo), pytest (básico)
-- Boas práticas: testes automatizados, documentação e controle de versão
+- Ferramentas: Git, Docker (em estudo), pytest (bÃ¡sico)
+- Boas prÃ¡ticas: testes automatizados, documentaÃ§Ã£o e controle de versÃ£o
 
 ## ?? Stats
 
@@ -46,4 +46,4 @@ Competências técnicas
 </p>
 
 <div align="center" style="margin-top: 1rem;">
-    <img src="https://raw.githubusercontent.com/andrefariasbr/andrefariasbr/output/snake.svg" alt="Animação cobrinha" />
+    <img src="https://raw.githubusercontent.com/andrefariasbr/andrefariasbr/output/snake.svg" alt="AnimaÃ§Ã£o cobrinha" />
