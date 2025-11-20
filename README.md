@@ -1,8 +1,18 @@
-﻿# Olá — sou o André 👋
+﻿# André Ferreira Farias
 
-- 🔭 Atualmente trabalho com desenvolvimento full-stack
-- 🌱 Estudando Docker, CI/CD e boas práticas de deploy
-- 😄 Pronome: he/him
+Técnico em Informática (IFRN) — Desenvolvedor Python e Django
+
+Resumo profissional
+---------------
+Profissional com formação técnica em Informática (IFRN), com atuação no desenvolvimento de aplicações web utilizando Python e Django. Experiência em concepção, implementação e manutenção de sistemas, com foco em automação de processos, qualidade de código e entrega de soluções práticas.
+
+Competências técnicas
+---------------
+- Linguagens: Python, HTML, CSS, JavaScript (básico)
+- Frameworks: Django
+- Banco de dados: PostgreSQL, SQLite
+- Ferramentas: Git, Docker (em estudo), pytest (básico)
+- Boas práticas: testes automatizados, documentação e controle de versão
 
 ## Estatísticas
 
@@ -25,10 +35,6 @@
 <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 
-## Idiomas
-
-🌐 Português — Nativo  
-🌐 Inglês — Avançado
 
 ## Contato
 
@@ -38,12 +44,6 @@
 	<img src="https://raw.githubusercontent.com/andrefariasbr/output/snake.svg" alt="Animação cobrinha" />
 </div>
 
-## Projetos em destaque
-
-- **projeto_hospital** — Sistema de gestão hospitalar (Python/Django): cadastro de pacientes, agendamento e relatórios.
-- **todo-django** — Aplicação To‑Do com autenticação e CRUD por projetos.
-- **projeto_views** — Estudos e exemplos sobre views e templates em Django.
-
 *(Adicione os links reais dos repositórios acima; fixe os que desejar no seu perfil.)*
 
 ## Em estudo
@@ -52,7 +52,4 @@
 - Testes automatizados em Python
 - Conceitos de CI/CD
 
----
-
-Feito com foco em profissionalismo — qualquer ajuste eu atualizo.
 
