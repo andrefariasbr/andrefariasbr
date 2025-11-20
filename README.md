@@ -45,5 +45,12 @@ Competências técnicas
     <a href="mailto:andre.farias.luc@gmail.com"><img src="https://img.shields.io/badge/-Email-6fc2b0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center" style="margin-top:0.5rem; font-size:0.95rem;">
+    Se o seu navegador não abrir o cliente de e-mail ao clicar, use um dos links abaixo:
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andre.farias.luc@gmail.com&su=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer">Abrir no Gmail</a>
+    &nbsp;•&nbsp;
+    <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=andre.farias.luc@gmail.com&subject=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer">Abrir no Outlook Web</a>
+</p>
+
 <div align="center" style="margin-top: 1rem;">
     <img src="https://raw.githubusercontent.com/andrefariasbr/andrefariasbr/output/snake.svg" alt="Animação cobrinha" />
