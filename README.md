@@ -1,5 +1,5 @@
 ﻿
-TTécnico em Informática (IFRN) — Desenvolvedor Python e Django
+Técnico em Informática (IFRN) — Desenvolvedor Python e Django
 
 Resumo profissional
 ---------------
