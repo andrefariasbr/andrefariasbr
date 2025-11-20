@@ -17,9 +17,9 @@ Competências técnicas
 ## 📊 Stats
 
 <div align="center">
-	<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefariasbr&layout=compact&langs_count=8&theme=cobalt" style="max-width:640px; width:100%; margin-bottom: 1rem;" />
+	<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefariasbr&layout=compact&langs_count=8&theme=cobalt" style="max-width:420px; width:100%; margin-bottom: 0.75rem;" />
 
-	<img alt="Commits and activity" src="https://github-readme-stats.vercel.app/api?username=andrefariasbr&show_icons=true&theme=cobalt&include_all_commits=true" style="max-width:640px; width:100%;" />
+	<img alt="Commits and activity" src="https://github-readme-stats.vercel.app/api?username=andrefariasbr&show_icons=true&theme=cobalt&include_all_commits=true" style="max-width:420px; width:100%;" />
 </div>
 
 ---
