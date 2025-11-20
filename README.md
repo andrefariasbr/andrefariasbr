@@ -1,5 +1,5 @@
 ﻿
-Técnico em Informática (IFRN) — Desenvolvedor Python e Django
+TTécnico em Informática (IFRN) — Desenvolvedor Python e Django
 
 Resumo profissional
 ---------------
@@ -13,7 +13,7 @@ Competências técnicas
 - Ferramentas: Git, Docker (em estudo), pytest (básico)
 - Boas práticas: testes automatizados, documentação e controle de versão
 
-## ?? Stats
+## 📊 Stats
 
 </h1>
 <div align='center'>
@@ -23,7 +23,7 @@ Competências técnicas
 
 ---
 
-## ?? Atualmente estudando
+## 🧩 Atualmente estudando
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,7 +38,7 @@ Competências técnicas
 
 ---
 
-## ?? Contatos
+## 📫 Contatos
 
 <p align="center">
     <a href="https://instagram.com/andrefariasbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
