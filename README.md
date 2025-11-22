@@ -10,7 +10,7 @@ Competências técnicas
 - Linguagens: Python, HTML, CSS, JavaScript (básico)
 - Frameworks: Django
 - Banco de dados: PostgreSQL, SQLite
-- Ferramentas: Git, Docker (em estudo), pytest (básico)
+- Ferramentas: Git, Docker (em estudo)
 - Boas práticas: testes automatizados, documentação e controle de versão
 
 ## 📊 Stats
